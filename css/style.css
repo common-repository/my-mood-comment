@@ -1,0 +1,26 @@
+.mc_item {
+    float: left;
+    margin: 0 10px;
+    min-width: 64px;
+    padding: 5px;
+    text-align: center;
+}
+
+.sv_image {
+    display: block;
+    padding-top: 54px;
+	width:70px;
+}
+a {
+    color: #6C8C37;
+    outline: medium none;
+    text-decoration: none;
+}
+
+.mc_item.selected {
+    background: none repeat scroll 0 0 #EDF3DE;
+}
+#moodComment {
+    clear: both;
+    height: 150px;
+}
